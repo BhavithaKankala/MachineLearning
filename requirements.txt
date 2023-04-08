@@ -1,0 +1,5 @@
+numpy
+Flask
+seaborn
+pandas
+-e .
